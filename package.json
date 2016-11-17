@@ -1,0 +1,26 @@
+{
+  "name": "startup-marketplace",
+  "version": "1.0.0",
+  "description": "Startup Marketplace web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Laki7877/startup-marketplace.git"
+  },
+  "keywords": [
+    "marketplace",
+    "startup"
+  ],
+  "author": "Laki Sik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laki7877/startup-marketplace/issues"
+  },
+  "homepage": "https://github.com/Laki7877/startup-marketplace#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

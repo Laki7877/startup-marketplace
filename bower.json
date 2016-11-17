@@ -1,0 +1,21 @@
+{
+  "name": "startup-marketplace",
+  "description": "Startup Marketplace web application",
+  "main": "server.js",
+  "authors": [
+    "Laki Sik"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "marketplace",
+    "startup"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
